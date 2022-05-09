@@ -10,7 +10,8 @@ const routes: Routes = [
   {path:'Vanilla', component: LeftNavComponent},
   {path:'Butterscotch', component: LeftNavComponent},
   {path:'BlackCurrent', component: LeftNavComponent},
-  {path:'Pista', component: LeftNavComponent}
+  {path:'Pista', component: LeftNavComponent}  
+  
 ];
 
 @NgModule({
